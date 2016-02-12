@@ -8,9 +8,12 @@ You should just edit the source file at src/README.md - the one which stars with
 
 ## @@title
 
-<img src="img/cover.jpg" class="logo" />
+<img src="img/biblia.jpg" class="logo" />
 
-@@author @ [Avenue Code](http://www.avenuecode.com)
+&nbsp;
+&nbsp;
+
+@@author
 
 *@@email*
 
@@ -20,26 +23,17 @@ You should just edit the source file at src/README.md - the one which stars with
 
 ## Agenda
 
- - The template
-  - Installing
-  - Working
-  - Deploying
- - Your talk
-  - Organization
-  - Content requirements
-  - Communication requirements
-  - The DONT's
-  - Tips
-  - If you are recording
-
-----
-
-## Agenda
-
- - Contributing
- - Learn more
- - Conclusion
- - Assignment
+ - INTRODU&Ccedil;&Atilde;O
+ - BABIL&Ocirc;NIA
+  - REVELA&Ccedil;&Atilde;O: Deus se comunica com o Homem
+ - BIBLIOTECA DE ALEXANDRIA
+  - INSPIRA&Ccedil;&Atilde;O: A Orienta&ccedil;&atilde;o do Esp&iacute;rito Santo
+ - ENCADERNA&Ccedil;&Atilde;O BIZZANTINA
+  - CANONICIDADE: O Reconhecimento da Inspira&ccedil;&atilde;o das Escrituras
+ - SCRIPTORIUM MEDIEVAL
+  - PRESERVA&Ccedil;&Atilde;O: Zelando pela Transmiss&atilde;o e Pureza do Texto
+ - O EST&Uacute;DIO DE JOHN WICLIF
+  - TRADU&Ccedil;&Atilde;O: Levando a Palavra aos Povos
 
 ---
 
@@ -229,4 +223,4 @@ git push origin my-new-feature
 
 1. Make your awesome talk based on this template.
 1. Push it to a gh-pages branch on your GitHub account.
-1. Share the URL with the world!
+1. Share the URL with the world!e world!

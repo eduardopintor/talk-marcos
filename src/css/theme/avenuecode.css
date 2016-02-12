@@ -172,14 +172,15 @@ body {
       font-style: normal; }
     .reveal.center .slides section div.footer {
       position: absolute;
-      width: 800px;
+      width: 100%;
       z-index: 999;
       left: 0;
-      bottom: 20px;
       color: #ccc;
       height: 46px;
       text-align: left;
-      margin-bottom: 20px; }
+      margin-top: 20px; 
+      margin-bottom: 20px; 
+    }
       .reveal.center .slides section div.footer * {
         font-size: 24px;
         text-align: left; }
