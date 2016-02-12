@@ -32,195 +32,165 @@ Eduardo Pintor
   - CANONICIDADE: O Reconhecimento da Inspira&ccedil;&atilde;o das Escrituras
  - SCRIPTORIUM MEDIEVAL
   - PRESERVA&Ccedil;&Atilde;O: Zelando pela Transmiss&atilde;o e Pureza do Texto
- - O EST&Uacute;DIO DE JOHN WICLIF
+ - O EST&Uacute;DIO DE JOHN WYCLIF
   - TRADU&Ccedil;&Atilde;O: Levando a Palavra aos Povos
 
 ---
 
-## Prerequisites
+## Introdu&ccedil;&atilde;o
+  - Voc&aacute;bulo *&quot;B&iacute;blia&quot;*: do grego *biblios*, o nome que os gregos davam &agrave; folha de papiro preparada para escrita
+  - *Biblion*: Um rolo de papiro de tamanho pequeno
+  - V&aacute;rios destes rolos formavam uma *b&iacute;blia*
+  - Literalmente: *B&iacute;blia* quer dizer *&quot;cole&ccedil;&atilde;o de livros pequenos&quot;*
+  - Sendo uma unidade perfeita, *B&iacute;blia* passou do plural para o singular, significando **'o Livro'**, ou, o **'Livro dos Livros'**
 
-- Markdown
-- Reveal.js
-- Grunt
+----
+
+## Introdu&ccedil;&atilde;o
+  - A B&iacute;blia:
+   - Possui *66 Livros*
+   - Mais de *40 escritores*
+   - Escrita ao longo de um per&iacute;odo de *1600 anos*
+  - Sua Divis&atilde;o:
+   - *Antigo Testamento*: 39 Livros
+   - *Novo Testamento*: 27 Livros
+  - O nomes mais comuns da B&iacute;blia:
+   - Escrituras (Mt 21.42)
+   - Sagradas Escrituras (Rm 1.2)
+   - Livro do Senhor (Is 34.16)
+   - Palavra de Deus (Mc. 7.13 ; Hb 4.12)   
 
 ---
 
-## The template
-
-1. The Avenue Code talk template is a responsive, web-based talk template.
-1. This template is based on [Reveal.JS](http://lab.hakim.se/reveal-js).
-1. All you need to do is to write your content in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-1. There are some [Grunt](http://gruntjs.com) jobs to automatize the build process.
-1. It has *automatic code highlighting*, guessing the programming language you used.
-1. Once it is described in *README.md*, the talk contents will also be available as the repository description which is a common format for tutorials.
-
-----
-
-## Setting up your repo
-
-1. Sign in on GitHub
-1. Fork the repository <https://github.com/acbr/talk-template>
-1. Rename it to match your talk name (ex: *talk-design-patterns*)
-1. Clone this repository
-1. Navigate to its folder on the terminal
+## Revela&ccedil;&atilde;o
+  - *Cuneiforme*
+   - *Em forma de cunha*, anota&ccedil;&otilde;es em argila
+   - Pictogramas e Ideogramas: c&oacute;digo leg&iacute;vel aos reis e escribas
+   - N&atilde;o cont&eacute;m textos da B&iacute;blia 
+   - Foi in&iacute;cio do *desenvolvimento da esctita*
+   - *Escrita*: instrumento no qual Deus se revela ao Homem 
 
 ----
 
-## Building and running
-
-1. Install [Node.js](http://nodejs.org/)
-1. Install [Grunt](http://gruntjs.com/getting-started#installing-the-cli)
-1. On the repo folder, install the npm dependencies
-```sh
-$ npm install
-```
-1. Build it, serve it and monitor source files for changes
-```sh
-$ grunt
-```
-1. Open <http://localhost:8000> to view your talk
-
-----
-
-## Working
-
-1. Open up *config.json* and fill your talk data such as title, author, email, date and description.
-  - That is the *ONLY FILE* you should edit on the project root!
-1. Any further change you will do is inside the *src* folder, such as:
-  - *src/README.md* to write your talk content in *Markdown*
-  - *src/index.html* to modify the HTML
-1. Grunt will generate files on the project root as you change *src*.
-1. In order to separate slides horizontally, use 3 dashes (---).
-1. In order to separate slides vertically, use 4 dashes (----).
-1. In order to *call out attention*, put an asterisk around your text:
-```
-In order to *call out attention*, ...
-```
-
-----
-
-## Deploying
-
-1. Make sure your build is not breaking.
-  - You should see *Done, without errors.* in the terminal.
-1. *git add*, *git commit* and *git push* to *gh-pages* branch.
-1. You should see your talk in an address like:
-  - http://*your-github-username*.github.io/*your-repo-name*
-  - Ex: <http://acbr.github.io/talk-template>
+## Revela&ccedil;&atilde;o
+  - &Eacute; a *manifesta&ccedil;&atilde;o* que Deus faz de Si mesmo e a compreens&atilde;o, mesmo que parcial, dela pelos homens
+  - Deus faz-se conhecido dos homens na sua *personalidade* e nas *suas rela&ccedil;&otilde;es*
+  - Ele se revela, porque quer que o *homem o conhe&amp;ccedil;a* (Sl 19.1-4)
 
 ---
 
-## Your talk
-
- - Should last no more than 50 minutes, leave up to 10 minutes for questions.
- - Should not be too deep neither too superficial.
- - Give at least 3 reference links to be followed for further studies.
- - Give a challenge that would be solved using ideas that were covered on the talk.
- - It is ok to go a little bit far (forcing the attendee to do some research), but that should be optional.
-
-----
-
-## Organization
-
- - 1st slide: the cover, featuring your talk name, your name, the lecture date and AC logo.
- - 2nd slide: the agenda, in topics.
- - 3nd slide: the prerequisites of your talk.
- - From 4th slide on: your content
-  - When content from the same topic doesn't fit on a slide -> grow it *VERTICALLY* by adding a slide below (----).
-  - When you finish a topic and will start a different one -> grow it *HORIZONTALLY* by adding a slide to the right (---).
- - The 3 last slides: Conclusion, Learn more (with the reference links) and Challenge.
+## Inspira&ccedil;&atilde;o
+  - *Alexandria*: a maior biblioteca do mundo
+  - *Alexandre, o Grande*
+  - Mediter&acirc;neo: *sec. III*
+  - Papiro, Couro, Rolo e outros materiais
+  - As primeiras Palavras da B&iacute;blia foramescritas em *Papiro*
 
 ----
 
-## Content requirements
-
-1. *BE CONSISTENT*. Master the subject and do not contradict yourself.
-1. *CATCH THE ATTENTION*. Let the audience know WHY they cannot live one more day without this technology.
-1. *BALANCE THEORY AND PRACTICE*. Your target is keeping the subject interesting for everybody.
-1. *BE CONCISE*. Don't overexplain in such way you could cause confusion to your attendees.
-1. *KEEP THE FOCUS*. Off-topic discussions are ok, but only if it doesn't disturb the natural flow of your content.
-1. *BE PREPARED*. If you are going to use examples or live coding, make sure you have them all prepared beforehand.
-
-----
-
-## Communication requirements
-
-1. *COMMUNICATE WELL*. Be sharp on English, no bad words or slangs and use the best words for the audience.
-1. *BE A PRO*. Please watch some good screencasts in order to learn how to use your voice and conduct the talk.
-1. *BE POLITE*. Be respectful and avoid heavy criticism.
-1. *BE PROFESSIONAL*. Use jokes and humor with parsimony.
-1. *TRAIN* your full talk at least once before your talk.
-
-----
-
-## The DONT's
-
-1. *DO NEVER SHOW PRIVATE CODE FROM THE CLIENT*. This is CRITICAL and can cause serious problems.
-1. *DON'T BE ARROGANT*. Be humble and don't focus the talk on yourself.
-1. *DON'T GENERALIZE*, specially stuff that you are not sure about.
-1. *DON'T MAKE UP DATA*. Base yourself on trustable references.
-1. *DON'T TALK LIKE A ROBOT*. Just be yourself, natural. Relax :)
-
-----
-
-## Tips
-
- - *ENJOY* your experience by creating the talk, because you will surely learn MUCH MORE than your attendees.
- - *BRING WATER* to drink while you present. You will certainly need it!
- - *BE OPEN* to receive questions and even criticism. You will learn a lot from them.
- - *ALWAYS* be polite when talking to your audience. This will always open doors for you.
- - People might come to you with questions and more complex cases after your talk. Consider it as a gift, it means you represent something good for them!
-
-----
-
-## If you are recording
-
-- Make sure you use a professional microphone when available.
-- Don't do *drastic transitions* on your screen, as the recorded amount of frames per second is low.
-- Ask atendees to only make questions on the end - so future watchers will just get the real content without interruption.
-- Introduce yourself: "Hello everybody, my name is xxxx, I work for Avenue Code and today's talk will be about yyyyy". Finish it like: "That's it, thanks for watching.".
-- Problems with recording/connection? Always restart from the beginning of the slide. Don't try to restart from where it fails, its impossible to do a clean cut on the video after that.
+## Inspira&ccedil;&atilde;o
+  - *Inspirada*: literalmente, *&quot;soprada por Deus&quot;*
+  - O que diferencia a B&iacute;blia dos demais livros: sua *Inspira&ccedil;&atilde;o Divina* (J&oacute; 32:8;2 Tm 3:16; 2Pe1:21)
+  - *Inspira&ccedil;&atilde;o Divina* = Palavra de Deus
+  - *&quot;Assim diz o Senhor&quot;* ocorre mais de *2600 vezes*
+  - Homens escreveram a B&iacute;blia com palavras de *seu vocabul&aacute;rio*, mas sob influ&ecirc;ncia do *Esp&iacute;rito Santo*
+  - *Defini&ccedil;&atilde;o adequada de Inspira&ccedil;&atilde;o*:
+   - Deus: o *Causador original* 
+   - Homens de Deus: os *instrumentos*
+   - Sagradas Escrituras: o *produto final*
 
 ---
 
-## Contributing
+## Canonicidade
+  - Manuscritos em *pergaminho*
+  - Novo m&eacute;todo de escrita: *C&oacute;dice* ou *Livro*
+  - *Constantinopla*: primeiro livros
+  - P&aacute;ginas individuais, juntadas em *uni&otilde;es ou assinaturas*
+  - B&iacute;blia em volumes
+  - Tradu&ccedil;&atilde;o para outros idiomas
+  - Expans&atilde;o da Palavra de Deus
 
-Should you wish to contribute, please be welcome to!
+----
 
-1. Fork the repository <https://github.com/acbr/talk-template>
-1. Create a feature branch for your contribution
-```sh
-git checkout -b my-new-feature
-```
-1. Commit your changes
-```sh
-git commit -am 'Add some feature'
-```
-1. Push to the branch
-```sh
-git push origin my-new-feature
-```
-1. Create a Pull Request
-
----
-
-## Conclusion
-
-- This talk template rocks!
-- Your life should be easier now.
+## Canonicidade
+ - *&quot;Canon&quot;*: origem crist&atilde; e derivada do grego *&quot;Kanon&quot;*
+ - Hebraico *&quot;kaneh&quot;* = *&quot;junco&quot;* ou *&quot;vara reta de medir&quot;*
+ - *C&acirc;non* = aquilo que serve de norma, regra
+ - *Livros Can&ocirc;nicos*: *Inspirados por Deus*
+ - *Ap&oacute;crifo*: grego *&quot;apokruphos&quot;* significa literalmente *&quot;escondido&quot;*, *&quot;oculto&quot;*
+  - significa *&quot;n&atilde;o genu&iacute;no&quot;*, *&quot;esp&uacute;rio&quot;*
+  - *Livros n&atilde;o inspirados por Deus*
 
 ---
 
-## Learn more
+## Preserva&ccedil;&atilde;o
+  - Deus preserva sua Palavra;
+  - B&iacute;blia: *livro mais copiado*
+  - Surgimento da *Vulgata Romana*
+  - Tradu&ccedil;&atilde;o de *Jer&ocirc;nimo*
+  - N&atilde;o temos os manucritos originais
+  - *Scriptorium*: Quarto de escrever onde moges copiavam as Escituras
+  - Surgimento de adendos
 
-1. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-1. [Reveal.JS](https://github.com/hakimel/reveal.js)
-1. [Grunt](http://gruntjs.com)
+----
+
+## Preserva&ccedil;&atilde;o
+  - *Tradi&ccedil;&atilde;o dos Escribas*: Antigo Testamento, Esdras
+  - *Responsabilidade dos Levitas*
+  - *Masoreta*: Desenvolve vocaliza&ccedil;&atilde;o do Hebra&iacute;co
+  - 800 d.C. Textos Massoretas
+  - *Escritos do Mar Morto*: 90% de precis&atilde;o, sem diverg&ecirc;ncias
+  - *A B&iacute;blia foi transmitida com extraordin&aacute;ria precis&atilde;o*
 
 ---
 
-## Challenge
+## Tradu&ccedil;&atilde;o
+ - John Wyclif: Tradu&ccedil;&atilde;o da Vulgata para o Ingl&ecirc;s
+ - 1832 Antigo e Novo Testamentos traduzidos
+ - *Linguas Originais*:
+  - Hebraico
+  - Grego
+  - Aramaico
+ - Inicio da Reforma
+ - 430 a.C: Pentatuco traduzidos pelos Samaritanos
 
-1. Make your awesome talk based on this template.
-1. Push it to a gh-pages branch on your GitHub account.
-1. Share the URL with the world!e world!
+----
+
+## Tradu&ccedil;&atilde;o
+- *Septuaginta*
+ - Tradu&ccedil;&atilde;o em 200 a.C.
+ - Do latim *'septuaginta'*, que quer dizer *&quot;Setenta&quot;* 
+ - *72 eruditos* traduziam em *72 dias* em Alexandia
+ - Onde derivou o nome *&ldquo;Sep-Tuaginta&rdquo;*
+ - Primeira tradu&ccedil;&atilde;o completa do A.T. do original grego
+- Citou e dividiu os livros por assuntos:
+ - Lei, Hist&oacute;ria, Poesia e Profecia
+- Usada ainda hoje na Igreja Grega
+
+----
+
+## Tradu&ccedil;&atilde;o
+- *Vulgata Latina*
+ - *&quot;Vulgata&quot;* do latim *&quot;vulgo povo&quot;*:do povo, popular, corrente
+ - Nova vers&atilde;o da B&iacute;blia por *Jer&ocirc;nimo (342-420)*
+ - *Antigo Testamento*: diretamente do hebraico
+ - *Novo Testamento*: revisto de vers&otilde;es em latim
+ - Vers&atilde;o foi feita de *387 a 405 d.C*
+ - Foi a B&iacute;blia da Igreja do Ocidente na idade M&eacute;dia
+ - Decretada como a b&iacute;blia oficial da Igreja Romana do *Conc&iacute;lio de Trento*, em 1546
+ - Oficializa em 1592, com a  publica&ccedil;&atilde;o de nova edi&ccedil;&atilde;o da Vulgata pelo *Papa Clemente VIII*
+
+---
+
+## Obrigado
+
+<img src="img/biblia.jpg" class="logo" />
+
+&nbsp;
+&nbsp;
+
+Eduardo Pintor
+
+*eduardo@eduardopintor.com*
+
+12 de Fevereiro de 2016
