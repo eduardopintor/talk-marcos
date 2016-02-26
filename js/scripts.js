@@ -4640,7 +4640,7 @@ Reveal.addEventListener('ready', function() {
   'use strict';
 
   var footer = TEMPLATES.footer({
-    title: 'Bibliologia'
+    title: 'Introdução aos Evangelhos'
   });
 
   var sectionEls = document.querySelectorAll('section:not(.stack)');

@@ -2,195 +2,200 @@
 
 WARNING!! DON'T EDIT THE FILE README.md on the root of the project, that one is a GENERATED FILE!
 
-You should just edit the source file at src/README.md - the one which stars with ## Bibliologia
+You should just edit the source file at src/README.md - the one which stars with ## Introdução aos Evangelhos
 
 -->
 
-## Bibliologia
+##Introdu&ccedil;&atilde;o aos Evangelhos
 
-<img src="img/biblia.jpg" class="logo" />
-
-&nbsp;
-&nbsp;
+<img src="img/the-four-gospels.jpg" class="logo" />
 
 Eduardo Pintor
 
 *eduardo@eduardopintor.com*
-
-12 de Fevereiro de 2016
 
 ---
 
 ## Agenda
 
- - INTRODU&Ccedil;&Atilde;O
- - BABIL&Ocirc;NIA
-  - REVELA&Ccedil;&Atilde;O: Deus se comunica com o Homem
- - BIBLIOTECA DE ALEXANDRIA
-  - INSPIRA&Ccedil;&Atilde;O: A Orienta&ccedil;&atilde;o do Esp&iacute;rito Santo
- - ENCADERNA&Ccedil;&Atilde;O BIZZANTINA
-  - CANONICIDADE: O Reconhecimento da Inspira&ccedil;&atilde;o das Escrituras
- - SCRIPTORIUM MEDIEVAL
-  - PRESERVA&Ccedil;&Atilde;O: Zelando pela Transmiss&atilde;o e Pureza do Texto
- - O EST&Uacute;DIO DE JOHN WYCLIF
-  - TRADU&Ccedil;&Atilde;O: Levando a Palavra aos Povos
+  - INTRODU&Ccedil;&Atilde;O
+  - O EVANGELHO E O ANTIGO TESTAMENTO
+  - A NATUREZA DO EVANGELHO
+  - O PLANO DE DEUS ATRAV&Eacute;S DO EVANGELHO
+  - O TEMA CENTRAL DO EVANGELHO
+  - O ESP&Iacute;RITO SANTO COMO INT&Eacute;RPRETE DO EVANGELHO
+  - O PANO DE FUNDO HIST&Oacute;RICO
+  - O CAR&Aacute;TER DOS EVANGELHOS
 
 ---
 
-## Introdu&ccedil;&atilde;o
-  - Voc&aacute;bulo *&quot;B&iacute;blia&quot;*: do grego *biblios*, o nome que os gregos davam &agrave; folha de papiro preparada para escrita
-  - *Biblion*: Um rolo de papiro de tamanho pequeno
-  - V&aacute;rios destes rolos formavam uma *b&iacute;blia*
-  - Literalmente: *B&iacute;blia* quer dizer *&quot;cole&ccedil;&atilde;o de livros pequenos&quot;*
-  - Sendo uma unidade perfeita, *B&iacute;blia* passou do plural para o singular, significando **'o Livro'**, ou, o **'Livro dos Livros'**
+## INTRODU&Ccedil;&Atilde;O
+- *O Evangelho*:
+  - Mateus, Marcos, Lucas e Jo&atilde;o
+- Objetivo do Evangelho: *Anunciar as boas novas de salva&ccedil;&atilde;o*
+- *O autores n&atilde;o se dedicaram a*:
+  - Registrar pormenores da vida de Cristo, 
+  - Sua inf&acirc;ncia
+  - Seus h&aacute;bitos di&aacute;rios
+  - Seu trabalho na carpintaria, etc.
 
 ----
 
-## Introdu&ccedil;&atilde;o
-  - A B&iacute;blia:
-   - Possui *66 Livros*
-   - Mais de *40 escritores*
-   - Escrita ao longo de um per&iacute;odo de *1600 anos*
-  - Sua Divis&atilde;o:
-   - *Antigo Testamento*: 39 Livros
-   - *Novo Testamento*: 27 Livros
-  - O nomes mais comuns da B&iacute;blia:
-   - Escrituras (Mt 21.42)
-   - Sagradas Escrituras (Rm 1.2)
-   - Livro do Senhor (Is 34.16)
-   - Palavra de Deus (Mc. 7.13 ; Hb 4.12)   
+## INTRODU&Ccedil;&Atilde;O
+
+- *Mas se limitaram a*:
+  - Mencionar a origem de Cristo (humana e divina)
+  - Seu minist&eacute;rio (ensinamentos, milagres)
+  - Sua morte
+  - Ressurrei&ccedil;&atilde;o
+  - Ascens&atilde;o
+  - *Fatos da &uacute;ltima semana do minist&eacute;rio de Cristo*
+- 4 distintos autores em diferentes &eacute;pocas
+  - *&ldquo;No entanto, a semelhan&ccedil;a entre eles &eacute; algo maravilhoso&rdquo;*
+- Os 4 Evangelistas contaram a *mesma hist&oacute;ria*
+  - Cada qual a seu modo
+
+----
+
+## INTRODU&Ccedil;&Atilde;O
+
+- Foram ou ouviram de testemunhas oculares
+- *N&atilde;o se trata da bibliografia de Cristo*:
+  - **Atos**
+  - **Doutrina de Jesus**
+  - **Minist&eacute;rio de Cristo**
+- *Confirmam as Profecias dos Antigos Profetas*
 
 ---
 
-## Revela&ccedil;&atilde;o
-  - *Cuneiforme*
-   - *Em forma de cunha*, anota&ccedil;&otilde;es em argila
-   - Pictogramas e Ideogramas: c&oacute;digo leg&iacute;vel aos reis e escribas
-   - N&atilde;o cont&eacute;m textos da B&iacute;blia 
-   - Foi in&iacute;cio do *desenvolvimento da esctita*
-   - *Escrita*: instrumento no qual Deus se revela ao Homem 
+## O EVANGELHO E O ANTIGO TESTAMENTO
+
+- Antigo Testamato
+  - Deus de revela progessivamente ao povo de Israel
+- V&aacute;rios Nomes usados para Deus
+  - *N&iacute;vel de revela&ccedil;&atilde;o alcan&ccedil;ado*
+- *Prepara&ccedil;&atilde;o de Linhagem Especial*
+  - Abra&atilde;o
+  - 1 Tribo: Jud&aacute;
+  - 1 Fam&iacute;lia: Jess&eacute;
+  - Raiz de Jess&eacute; -&gt; Jesus
+- *Jesus*
+  - Ponto m&aacute;ximo da manifest&ccedil;&atilde;o de Deus aos homens
 
 ----
 
-## Revela&ccedil;&atilde;o
-  - &Eacute; a *manifesta&ccedil;&atilde;o* que Deus faz de Si mesmo e a compreens&atilde;o, mesmo que parcial, dela pelos homens
-  - Deus faz-se conhecido dos homens na sua *personalidade* e nas *suas rela&ccedil;&otilde;es*
-  - Ele se revela, porque quer que o *homem o conhe&amp;ccedil;a* (Sl 19.1-4)
+## O EVANGELHO E O ANTIGO TESTAMENTO
+
+- *Antiga Alian&ccedil;a*
+  - vis&otilde;es, mensagens, sonhos, etc
+- *Nova Alian&ccedil;a*
+  - Deus desce em pessoa humana
+  - Atrav&eacute;s de seu Filho
+- Deus providenciou que a vida, a obra e a mensagem de Jesus fosse registrada
+  - *Os Evangelhos*
 
 ---
 
-## Inspira&ccedil;&atilde;o
-  - *Alexandria*: a maior biblioteca do mundo
-  - *Alexandre, o Grande*
-  - Mediter&acirc;neo: *sec. III*
-  - Papiro, Couro, Rolo e outros materiais
-  - As primeiras Palavras da B&iacute;blia foramescritas em *Papiro*
+## A NATUREZA DO EVANGELHO
 
-----
-
-## Inspira&ccedil;&atilde;o
-  - *Inspirada*: literalmente, *&quot;soprada por Deus&quot;*
-  - O que diferencia a B&iacute;blia dos demais livros: sua *Inspira&ccedil;&atilde;o Divina* (J&oacute; 32:8;2 Tm 3:16; 2Pe1:21)
-  - *Inspira&ccedil;&atilde;o Divina* = Palavra de Deus
-  - *&quot;Assim diz o Senhor&quot;* ocorre mais de *2600 vezes*
-  - Homens escreveram a B&iacute;blia com palavras de *seu vocabul&aacute;rio*, mas sob influ&ecirc;ncia do *Esp&iacute;rito Santo*
-  - *Defini&ccedil;&atilde;o adequada de Inspira&ccedil;&atilde;o*:
-   - Deus: o *Causador original* 
-   - Homens de Deus: os *instrumentos*
-   - Sagradas Escrituras: o *produto final*
+- *Evangelho* vem de duas palavras gregas:
+  - **&ldquo;&epsilon;&upsilon;&rdquo;** &ndash; eu = *&ldquo;boa&rdquo;*
+  - **&ldquo;&alpha;&gamma;&gamma;&epsilon;&lambda;&iota;&alpha;&rdquo;**  &ndash; anguelia = *&ldquo;mensagem&rdquo;, &ldquo;nova&rdquo;, &ldquo;not&iacute;cia&rdquo;*
+- **Evangelho** = *&ldquo;Boas Novas&rdquo;, &ldquo;Boas Not&iacute;cias&rdquo;*
+- **Evangelista* = cada um dos autores do Evangelho
+  - Portador de boas novas
+- *As boas novas a respeito de Jesus Cristo, o Filho de Deus*
+- 4 distintos autores
+  - Mateus, Marcos, Lucas e Jo&atilde;o
+- 1 s&oacute; Evangelho: *O Evangelho de Deus*
+  - *As boas novas de Deus para o mundo*
+- *Sl 115.3*
 
 ---
 
-## Canonicidade
-  - Manuscritos em *pergaminho*
-  - Novo m&eacute;todo de escrita: *C&oacute;dice* ou *Livro*
-  - *Constantinopla*: primeiro livros
-  - P&aacute;ginas individuais, juntadas em *uni&otilde;es ou assinaturas*
-  - B&iacute;blia em volumes
-  - Tradu&ccedil;&atilde;o para outros idiomas
-  - Expans&atilde;o da Palavra de Deus
+## O PLANO DE DEUS ATRAV&Eacute;S DO EVANGELHO
 
-----
-
-## Canonicidade
- - *&quot;Canon&quot;*: origem crist&atilde; e derivada do grego *&quot;Kanon&quot;*
- - Hebraico *&quot;kaneh&quot;* = *&quot;junco&quot;* ou *&quot;vara reta de medir&quot;*
- - *C&acirc;non* = aquilo que serve de norma, regra
- - *Livros Can&ocirc;nicos*: *Inspirados por Deus*
- - *Ap&oacute;crifo*: grego *&quot;apokruphos&quot;* significa literalmente *&quot;escondido&quot;*, *&quot;oculto&quot;*
-  - significa *&quot;n&atilde;o genu&iacute;no&quot;*, *&quot;esp&uacute;rio&quot;*
-  - *Livros n&atilde;o inspirados por Deus*
+- Deus pela sua *Miseric&oacute;rdia*
+  - *Envia o seu Filho Unig&ecirc;nito para salvar os pecadores*
+- Foi ordenado antes da funda&ccedil;&atilde;o do mundo (1Pe 1.20)
+- A mensagem n&atilde;o &eacute; nova para Deus
+  - Mas sim para o homem
+- *&ldquo;Gra&ccedil;a de Deus&rdquo;*: motivo da origem do Evangelho
+- *A Salva&ccedil;&atilde;o do Homem atrv&eacute;s de Jesus Cristo*
 
 ---
 
-## Preserva&ccedil;&atilde;o
-  - Deus preserva sua Palavra;
-  - B&iacute;blia: *livro mais copiado*
-  - Surgimento da *Vulgata Romana*
-  - Tradu&ccedil;&atilde;o de *Jer&ocirc;nimo*
-  - N&atilde;o temos os manucritos originais
-  - *Scriptorium*: Quarto de escrever onde moges copiavam as Escituras
-  - Surgimento de adendos
+## O TEMA CENTRAL DO EVANGELHO
 
-----
-
-## Preserva&ccedil;&atilde;o
-  - *Tradi&ccedil;&atilde;o dos Escribas*: Antigo Testamento, Esdras
-  - *Responsabilidade dos Levitas*
-  - *Masoreta*: Desenvolve vocaliza&ccedil;&atilde;o do Hebra&iacute;co
-  - 800 d.C. Textos Massoretas
-  - *Escritos do Mar Morto*: 90% de precis&atilde;o, sem diverg&ecirc;ncias
-  - *A B&iacute;blia foi transmitida com extraordin&aacute;ria precis&atilde;o*
+- *Jesus Cristo* &eacute; o tema central do Evangelho de Deus
+- Motivos pelos quais Jesus se fez carne:
+  - Os seres humanos s&atilde;o potencialmente carentes:
+    - da **verdade**;
+    - do **perd&atilde;o**,
+    - da **liberta&ccedil;&atilde;o da for&ccedil;a do pecado**
+- **Evangelho de Deus** = *&ldquo;Evangelho de Cristo&rdquo;* (Rm 1.9)
+- *&ldquo;O Evangelho de Cristo &eacute; o poder de Deus para a salva&ccedil;&atilde;o de todo aquele que nele cr&ecirc;&rdquo;* (Rm 1.16)
+- N&atilde;o outro evangelho que devamos anunciar a n&atilde;o ser o de *Cristo* (Gl 1.7-9)
 
 ---
 
-## Tradu&ccedil;&atilde;o
- - John Wyclif: Tradu&ccedil;&atilde;o da Vulgata para o Ingl&ecirc;s
- - 1832 Antigo e Novo Testamentos traduzidos
- - *Linguas Originais*:
-  - Hebraico
-  - Grego
-  - Aramaico
- - Inicio da Reforma
- - 430 a.C: Pentatuco traduzidos pelos Samaritanos
+## O ESP&Iacute;RITO SANTO COMO INT&Eacute;RPRETE DO EVANGELHO
+
+- **Por que alguns homens inteligentes n&atilde;o creem em Jesus, conforme ele &eacute; revelado nas Escrituras&rdquo;**
+  - *O homem &eacute; espiritualmente cego*
+  - Os olhos do seu entendimento precisam ser *iluminados*
+- Esp&iacute;rito Santo &eacute; o agente da ilumina&ccedil;&atilde;o do evangelho
+- Revela as insond&aacute;veis e impenetr&aacute;veis:
+  - Verdades de *Cristo e do seu Santo Evangelho*
+  - *Sabedoria de Deus* e n&atilde;o humana
+- *1 Co 2.6-10*
+
+---
+
+## O PANO DE FUNDO HIST&Oacute;RICO
+
+- *Herodes, o Grande*: Monarca de Judeia e Samaria
+  - Morreu no ano 4 d.C.
+- *Arquelau*: mau governo - Banido ano 6 d.C.
+- *Roma*: Governadores e Prefeitos
+  - Posteriormente denominados **&ldquo;procuradores&rdquo;**
+- *Galileia*, onde Jesus vivia
+  - Divis&atilde;o de *Herodes Antipas*
+  - No ano 39 d. C. -&gt; *Agripa*
+    - neto de Herodes, o Grande
 
 ----
 
-## Tradu&ccedil;&atilde;o
-- *Septuaginta*
- - Tradu&ccedil;&atilde;o em 200 a.C.
- - Do latim *'septuaginta'*, que quer dizer *&quot;Setenta&quot;* 
- - *72 eruditos* traduziam em *72 dias* em Alexandia
- - Onde derivou o nome *&ldquo;Sep-Tuaginta&rdquo;*
- - Primeira tradu&ccedil;&atilde;o completa do A.T. do original grego
-- Citou e dividiu os livros por assuntos:
- - Lei, Hist&oacute;ria, Poesia e Profecia
-- Usada ainda hoje na Igreja Grega
+## O PANO DE FUNDO HIST&Oacute;RICO
+- *Herodes Antipas*
+  - Tornou-se Rei da Judeia e Samaria
+    - pelo Imperador Cl&aacute;udio
+  - Grande perseguidor dos ap&oacute;stolos
+    - Morreu castigado por Deus por aceitar adora&ccedil;&atilde;o a sua pessoa
+- *Magistrados de romanos*
+  - **Grande Revolta**: atrito entre judeus e romanos
+- *No ano 70 d.C. Jerusal&eacute;m foi destru&iacute;da pelo Imperador Nero*
 
-----
+---
 
-## Tradu&ccedil;&atilde;o
-- *Vulgata Latina*
- - *&quot;Vulgata&quot;* do latim *&quot;vulgo povo&quot;*:do povo, popular, corrente
- - Nova vers&atilde;o da B&iacute;blia por *Jer&ocirc;nimo (342-420)*
- - *Antigo Testamento*: diretamente do hebraico
- - *Novo Testamento*: revisto de vers&otilde;es em latim
- - Vers&atilde;o foi feita de *387 a 405 d.C*
- - Foi a B&iacute;blia da Igreja do Ocidente na idade M&eacute;dia
- - Decretada como a b&iacute;blia oficial da Igreja Romana do *Conc&iacute;lio de Trento*, em 1546
- - Oficializa em 1592, com a  publica&ccedil;&atilde;o de nova edi&ccedil;&atilde;o da Vulgata pelo *Papa Clemente VIII*
+## O CAR&Aacute;TER DOS EVANGELHOS
+
+- N&atilde;o s&atilde;o escritos biogr&aacute;ficos que fornecem acontecimentos hist&oacute;ricos na totalidade
+- As informa&ccedil;&otilde;es foram selecionadas cuidadosamente a fim de apresentar uma *mensagem clara e poderosa de Cristo*
+- N&atilde;o mencionam:
+  - o nascimento de Cristo
+  - vida de Jesus quando jovem
+- Enfocam amplamante:
+  - A &uacute;ltima semana do minist&eacute;rio de Jesus
+- **Inten&ccedil;&atilde;o dos 4 evangelho** 
+  - *Proclamar a Mensagem de Boas Novas*
 
 ---
 
 ## Obrigado
 
-<img src="img/biblia.jpg" class="logo" />
-
-&nbsp;
-&nbsp;
+<img src="img/the-four-gospels.jpg" class="logo" />
 
 Eduardo Pintor
 
 *eduardo@eduardopintor.com*
-
-12 de Fevereiro de 2016
