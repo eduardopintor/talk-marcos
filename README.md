@@ -34,7 +34,7 @@ Eduardo Pintor
   - Mateus, Marcos, Lucas e Jo&atilde;o
 - Objetivo do Evangelho: *Anunciar as boas novas de salva&ccedil;&atilde;o*
 - *O autores n&atilde;o se dedicaram a*:
-  - Registrar pormenores da vida de Cristo, 
+  - Registrar os pormenores da vida de Cristo, 
   - Sua inf&acirc;ncia
   - Seus h&aacute;bitos di&aacute;rios
   - Seu trabalho na carpintaria, etc.
