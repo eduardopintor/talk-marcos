@@ -4640,7 +4640,7 @@ Reveal.addEventListener('ready', function() {
   'use strict';
 
   var footer = TEMPLATES.footer({
-    title: 'Introdução aos Evangelhos'
+    title: 'O Evangelho segundo Marcos'
   });
 
   var sectionEls = document.querySelectorAll('section:not(.stack)');

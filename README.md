@@ -2,15 +2,15 @@
 
 WARNING!! DON'T EDIT THE FILE README.md on the root of the project, that one is a GENERATED FILE!
 
-You should just edit the source file at src/README.md - the one which stars with ## Introdução aos Evangelhos
+You should just edit the source file at src/README.md - the one which stars with ## O Evangelho segundo Marcos
 
 -->
 
-##Introdu&ccedil;&atilde;o aos Evangelhos
+##Evangelho Segundo Marcos
 
-<img src="img/the-four-gospels.jpg" class="logo" />
+<img src="img/EVANGELHOMARCOSPOCKET.jpg" class="logo" />
 
-Eduardo Pintor
+Pr. Eduardo Pintor
 
 *eduardo@eduardopintor.com*
 
@@ -19,183 +19,150 @@ Eduardo Pintor
 ## Agenda
 
   - INTRODU&Ccedil;&Atilde;O
-  - O EVANGELHO E O ANTIGO TESTAMENTO
-  - A NATUREZA DO EVANGELHO
-  - O PLANO DE DEUS ATRAV&Eacute;S DO EVANGELHO
-  - O TEMA CENTRAL DO EVANGELHO
-  - O ESP&Iacute;RITO SANTO COMO INT&Eacute;RPRETE DO EVANGELHO
-  - O PANO DE FUNDO HIST&Oacute;RICO
-  - O CAR&Aacute;TER DOS EVANGELHOS
+  - IMPORT&Acirc;NCIA DO EVANGELHO
+  - AUTORIA
+  - DATA
+  - CARACTERISTICAS TEOL&Oacute;GICAS E LITER&Aacute;RIAS
 
 ---
 
 ## INTRODU&Ccedil;&Atilde;O
-- *O Evangelho*:
-  - Mateus, Marcos, Lucas e Jo&atilde;o
-- Objetivo do Evangelho: *Anunciar as boas novas de salva&ccedil;&atilde;o*
-- *O autores n&atilde;o se dedicaram a*:
-  - Registrar os pormenores da vida de Cristo, 
-  - Sua inf&acirc;ncia
-  - Seus h&aacute;bitos di&aacute;rios
-  - Seu trabalho na carpintaria, etc.
+  - O mais breve e o mais simples dos Evangelhos
+  - Relato conciso e de cenas r&aacute;pidas
+  - Pequenos coment&aacute;rios
+  - Conta a hist&oacute;ria do *Servo* em movimento:
+    - pregar
+    - curar
+    - ensinar
+    - morrer pelos pecadores
+  - **&ldquo;n&atilde;o veio para ser servido, mas para servir&rdquo;**
+  - dando **&ldquo;sua vida em resgate de muitos&rdquo;** (10.45)
+  - Modelo daqueles que seguem os passos do *Servo*
+
+---
+
+## IMPORT&Acirc;NCIA DO EVANGELHO
+
+- Cont&eacute;m *pouco material* que apare&ccedil;a nos outros sin&oacute;dicos
+  - Apenas cinco passagens: 3.7-12; 4.26-29; 7.32-37; 8.22-26 e 14.51-52
+  - Alguns ver&iacute;sculos isolados
+- Durante muito tempo foi considerado *sem import&acirc;ncia*
+- S&eacute;culo XIX, firma-se a id&eacute;ia de que foi *b&aacute;sico para prepara&ccedil;&atilde;o de Mateus e Lucas*
+- Por ser *o mais antigo sobre a vida e obra de Jesus, desperou grande interesse*
+
+---
+
+## AUTORIA
+
+- Mesmo sendo a autoria **an&ocirc;nima**
+  - Un&acirc;nime em dizer que o autor &eacute; *Jo&atilde;o Marcos*
 
 ----
 
-## INTRODU&Ccedil;&Atilde;O
+## JO&Atilde;O MARCOS
 
-- *Mas se limitaram a*:
-  - Mencionar a origem de Cristo (humana e divina)
-  - Seu minist&eacute;rio (ensinamentos, milagres)
-  - Sua morte
-  - Ressurrei&ccedil;&atilde;o
-  - Ascens&atilde;o
-  - *Fatos da &uacute;ltima semana do minist&eacute;rio de Cristo*
-- 4 distintos autores em diferentes &eacute;pocas
-  - *&ldquo;No entanto, a semelhan&ccedil;a entre eles &eacute; algo maravilhoso&rdquo;*
-- Os 4 Evangelistas contaram a *mesma hist&oacute;ria*
-  - Cada qual a seu modo
+- Seguidor de Pedro
+- Companheiro de Paulo e Barnab&eacute; em sua 1&ordf; viagem mission&aacute;ria
+- Testemunho de Papias (cerca de 135-140 d.C.)
+  - Descreve Marcos como *&ldquo;interprete de Pedro&rdquo;*
+  - Tradi&ccedil;&atilde;o apost&oacute;lica dos Evangelhos da Igreja
+  - Pais da Igreja atribuiram este Evangelho a Marcos.
 
 ----
 
-## INTRODU&Ccedil;&Atilde;O
+## JO&Atilde;O MARCOS
 
-- Foram ou ouviram de testemunhas oculares
-- *N&atilde;o se trata da bibliografia de Cristo*:
-  - **Atos**
-  - **Doutrina de Jesus**
-  - **Minist&eacute;rio de Cristo**
-- *Confirmam as Profecias dos Antigos Profetas*
-
----
-
-## O EVANGELHO E O ANTIGO TESTAMENTO
-
-- Antigo Testamato
-  - Deus de revela progessivamente ao povo de Israel
-- V&aacute;rios Nomes usados para Deus
-  - *N&iacute;vel de revela&ccedil;&atilde;o alcan&ccedil;ado*
-- *Prepara&ccedil;&atilde;o de Linhagem Especial*
-  - Abra&atilde;o
-  - 1 Tribo: Jud&aacute;
-  - 1 Fam&iacute;lia: Jess&eacute;
-  - Raiz de Jess&eacute; -&gt; Jesus
-- *Jesus*
-  - Ponto m&aacute;ximo da manifest&ccedil;&atilde;o de Deus aos homens
+- Filho de Maria
+  - Casa era lugar de reuni&atilde;o dos disc&iacute;pulos (At 12.12)
+  - Consider&aacute;vel influ&ecirc;ncia na Igreja em Jerusal&eacute;m
+  - Pedro foi a sua casa logo ao ser libertado da pris&atilde;o pelo anjo (At. 12.12)
+- Parente Barnab&eacute; (Cl 4.10)
+- O mo&ccedil;o que &ldquo;fugiu desnudo&rdquo;, quando Jesus foi preso (Mc 14.51,52)
+  - *Interesse por Jesus*
+  - 1Pe 5.13 - **convertido de Pedro**
 
 ----
 
-## O EVANGELHO E O ANTIGO TESTAMENTO
+## JO&Atilde;O MARCOS
 
-- *Antiga Alian&ccedil;a*
-  - vis&otilde;es, mensagens, sonhos, etc
-- *Nova Alian&ccedil;a*
-  - Deus desce em pessoa humana
-  - Atrav&eacute;s de seu Filho
-- Deus providenciou que a vida, a obra e a mensagem de Jesus fosse registrada
-  - *Os Evangelhos*
-
----
-
-## A NATUREZA DO EVANGELHO
-
-- *Evangelho* vem de duas palavras gregas:
-  - **&ldquo;&epsilon;&upsilon;&rdquo;** &ndash; eu = *&ldquo;boa&rdquo;*
-  - **&ldquo;&alpha;&gamma;&gamma;&epsilon;&lambda;&iota;&alpha;&rdquo;**  &ndash; anguelia = *&ldquo;mensagem&rdquo;, &ldquo;nova&rdquo;, &ldquo;not&iacute;cia&rdquo;*
-- **Evangelho** = *&ldquo;Boas Novas&rdquo;, &ldquo;Boas Not&iacute;cias&rdquo;*
-- **Evangelista* = cada um dos autores do Evangelho
-  - Portador de boas novas
-- *As boas novas a respeito de Jesus Cristo, o Filho de Deus*
-- 4 distintos autores
-  - Mateus, Marcos, Lucas e Jo&atilde;o
-- 1 s&oacute; Evangelho: *O Evangelho de Deus*
-  - *As boas novas de Deus para o mundo*
-- *Sl 115.3*
-
----
-
-## O PLANO DE DEUS ATRAV&Eacute;S DO EVANGELHO
-
-- Deus pela sua *Miseric&oacute;rdia*
-  - *Envia o seu Filho Unig&ecirc;nito para salvar os pecadores*
-- Foi ordenado antes da funda&ccedil;&atilde;o do mundo (1Pe 1.20)
-- A mensagem n&atilde;o &eacute; nova para Deus
-  - Mas sim para o homem
-- *&ldquo;Gra&ccedil;a de Deus&rdquo;*: motivo da origem do Evangelho
-- *A Salva&ccedil;&atilde;o do Homem atrv&eacute;s de Jesus Cristo*
-
----
-
-## O TEMA CENTRAL DO EVANGELHO
-
-- *Jesus Cristo* &eacute; o tema central do Evangelho de Deus
-- Motivos pelos quais Jesus se fez carne:
-  - Os seres humanos s&atilde;o potencialmente carentes:
-    - da **verdade**;
-    - do **perd&atilde;o**,
-    - da **liberta&ccedil;&atilde;o da for&ccedil;a do pecado**
-- **Evangelho de Deus** = *&ldquo;Evangelho de Cristo&rdquo;* (Rm 1.9)
-- *&ldquo;O Evangelho de Cristo &eacute; o poder de Deus para a salva&ccedil;&atilde;o de todo aquele que nele cr&ecirc;&rdquo;* (Rm 1.16)
-- N&atilde;o outro evangelho que devamos anunciar a n&atilde;o ser o de *Cristo* (Gl 1.7-9)
-
----
-
-## O ESP&Iacute;RITO SANTO COMO INT&Eacute;RPRETE DO EVANGELHO
-
-- **Por que alguns homens inteligentes n&atilde;o creem em Jesus, conforme ele &eacute; revelado nas Escrituras&rdquo;**
-  - *O homem &eacute; espiritualmente cego*
-  - Os olhos do seu entendimento precisam ser *iluminados*
-- Esp&iacute;rito Santo &eacute; o agente da ilumina&ccedil;&atilde;o do evangelho
-- Revela as insond&aacute;veis e impenetr&aacute;veis:
-  - Verdades de *Cristo e do seu Santo Evangelho*
-  - *Sabedoria de Deus* e n&atilde;o humana
-- *1 Co 2.6-10*
-
----
-
-## O PANO DE FUNDO HIST&Oacute;RICO
-
-- *Herodes, o Grande*: Monarca de Judeia e Samaria
-  - Morreu no ano 4 d.C.
-- *Arquelau*: mau governo - Banido ano 6 d.C.
-- *Roma*: Governadores e Prefeitos
-  - Posteriormente denominados **&ldquo;procuradores&rdquo;**
-- *Galileia*, onde Jesus vivia
-  - Divis&atilde;o de *Herodes Antipas*
-  - No ano 39 d. C. -&gt; *Agripa*
-    - neto de Herodes, o Grande
+- *45 d.C., Marcos seguiu com Paulo e Barnab&eacute; a Antioquia*
+  - Esteve com eles no princ&iacute;pio de sua primeira viagem mission&aacute;ria
+  - Mas, n&atilde;o prosseguindo
+- *50 d.C. - Segunda viagem de Paulo*
+  - Paulo recusa-se a lev&aacute;-lo
+  - Paulo e Branab&eacute; se separam  (At 13.5,13; 15.37-39)
+  - Marcos parte com Barnab&eacute; para Chipre
+- *62 d.C. - Acha-se em Roma com Paulo* (Cl 4.10; Fm 24)
+  - Auxiliar &iacute;ntimo e querido do Ap&oacute;stolo Paulo. 
 
 ----
 
-## O PANO DE FUNDO HIST&Oacute;RICO
-- *Herodes Antipas*
-  - Tornou-se Rei da Judeia e Samaria
-    - pelo Imperador Cl&aacute;udio
-  - Grande perseguidor dos ap&oacute;stolos
-    - Morreu castigado por Deus por aceitar adora&ccedil;&atilde;o a sua pessoa
-- *Magistrados de romanos*
-  - **Grande Revolta**: atrito entre judeus e romanos
-- *No ano 70 d.C. Jerusal&eacute;m foi destru&iacute;da pelo Imperador Nero*
+## JO&Atilde;O MARCOS
+- *Com Pedro em Babil&ocirc;nia (Roma?)*
+  - quando Pedro escreveu sua primeira ep&iacute;stola
+- *Antiga tradi&ccedil;&atilde;o crist&atilde;*
+  - Maior parte do tempo com Pedro
+  - Escreveu pelo que ouviu de Pedro em suas prega&ccedil;&otilde;es
+- Julga-se que foi escrito o divulgado em Roma
+  - **Entre 60 e 70 d.C.**
 
 ---
 
-## O CAR&Aacute;TER DOS EVANGELHOS
+## DATA
 
-- N&atilde;o s&atilde;o escritos biogr&aacute;ficos que fornecem acontecimentos hist&oacute;ricos na totalidade
-- As informa&ccedil;&otilde;es foram selecionadas cuidadosamente a fim de apresentar uma *mensagem clara e poderosa de Cristo*
-- N&atilde;o mencionam:
-  - o nascimento de Cristo
-  - vida de Jesus quando jovem
-- Enfocam amplamante:
-  - A &uacute;ltima semana do minist&eacute;rio de Jesus
-- **Inten&ccedil;&atilde;o dos 4 evangelho** 
-  - *Proclamar a Mensagem de Boas Novas*
+- Os fundadores da Igreja declaram
+  - **Foi escrito depois da morte de Pedro**
+  - Persegui&ccedil;&otilde;es do Imperador Nero por volta de 67 d.C.
+  - Antes da destrui&ccedil;&atilde;o do Templo em 70 d.C.
+- *Entre 65 e 70 d.C. *
 
 ---
 
-## Obrigado
+## CARACTERISTICAS TEOL&Oacute;GICAS E LITER&Aacute;RIAS
+
+- Revela&ccedil;&atilde;o de Deus na hist&oacute;ria da humanidade
+- **Pela pessoa de Jesus**
+  - Mestre chegado da Galileia (1.9)
+  - O Cristo
+  - O Messias, esperado por Israel
+  - Sinal imediato da *vinda do reino de Deus*
+- *Jesus n&atilde;o satisfaz &agrave;s expectativas judaicas*
+  - N&atilde;o era um messias pol&iacute;tico e militar
+  - Homem humilde
+  - N&atilde;o o **'Libertador Nacional'**
+
+----
+
+## CARACTERISTICAS TEOL&Oacute;GICAS E LITER&Aacute;RIAS
+
+- Jesus, o Filho de Deus, &eacute; tamb&eacute;m o Filho do Homem.
+- Sentimento humanos
+  - Sujeito ao sofrimento e &agrave; morte (8.31)
+  - Mantem sua misss&atilde;o em segredo
+  - At&eacute; o momento de ser acreditada pelos padecimentos morais e f&iacute;sicos
+- Marcos se dedica mais aos *atos que ao discursos*
+- Excess&otilde;es:
+  - S&eacute;rie de par&aacute;bolas de 4.1-34 
+  - Serm&atilde;o escatol&oacute;gico de 13.3-37
+
+----
+
+## CARACTERISTICAS TEOL&Oacute;GICAS E LITER&Aacute;RIAS
+
+- Breves interven&ccedil;&otilde;es de ensinamento, exorta&ccedil;&atilde;o ou controv&eacute;rsia
+- Descri&ccedil;&atilde;o dos atos mais amplos
+  - Superior ao que Mateus e Lucas dedicam &agrave;s narrativas paralelas
+- Desenvolvimento dram&aacute;tico cresce em intensidade
+- Ponto culminante *a paix&atilde;o, crucifica&ccedil;&atilde;o e ressurrei&ccedil;&atilde;o de Jesus*
+- O Senhor anuncia tr&ecirc;s vezes esses acontecimentos
+ - Eles n&atilde;o comprerendia que fazia parte do Plano de Salva&ccedil;&atilde;o
+
+---
+
+## OBRIGADO
 
 <img src="img/the-four-gospels.jpg" class="logo" />
 
-Eduardo Pintor
+Pr. Eduardo Pintor
 
 *eduardo@eduardopintor.com*
